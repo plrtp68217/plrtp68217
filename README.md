@@ -1,1 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plrtp68217&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plrtp68217&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
